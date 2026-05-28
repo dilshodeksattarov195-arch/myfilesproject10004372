@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfync",
+        "uuid": 31063060,
+        "checksum": "3siviu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
